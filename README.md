@@ -44,8 +44,7 @@ The **URL Content Downloader** is a web-based application that allows users to d
    url-content-downloader/
    ├── app.py
    ├── README.md
-   └── templates/
-       └── index.html   
+   └── index.html   
 
 ## Usage
 
@@ -82,9 +81,6 @@ The **URL Content Downloader** is a web-based application that allows users to d
 3. Commit your changes (git commit -m 'Add new feature').
 4. Push to the branch (git push origin feature-name).
 5. Open a pull request.
-
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 1. The requests library for HTTP requests.
