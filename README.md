@@ -17,8 +17,9 @@ The **URL Content Downloader** is a web-based application that allows users to d
 
 ## Screenshot
 ![Screenshot 2024-11-04 232408](https://github.com/user-attachments/assets/7a3c643a-1ed6-493d-8bd8-fd10922339f5)
-**After enter link or folder name press download**
+**After enter link or folder name**
 ![Screenshot 2024-11-04 234139](https://github.com/user-attachments/assets/69acf083-7a16-4ba6-85bd-9acc1f60921e)
+**Press Enter**
 
 
 ## Prerequisites
