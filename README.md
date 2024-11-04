@@ -15,7 +15,8 @@ The **URL Content Downloader** is a web-based application that allows users to d
 - **Concurrent Downloads**: Python ThreadPoolExecutor
 - **HTTP Requests**: `requests` library
 
----
+## Screenshot
+![Screenshot 2024-11-04 232408](https://github.com/user-attachments/assets/7a3c643a-1ed6-493d-8bd8-fd10922339f5)
 
 ## Prerequisites
 - Python 3.x
